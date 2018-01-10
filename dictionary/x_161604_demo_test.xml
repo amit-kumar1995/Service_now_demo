@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test" max_length="40" name="x_161604_demo_test" type="collection">
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element label="Pridce" max_length="40" name="pridce" type="string"/>
+    </element>
+</database>
